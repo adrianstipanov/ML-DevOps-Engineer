@@ -13,18 +13,26 @@ The data is pulled from [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/cr
 
 * Create virtual environment
 
-```python3 -m venv venv```
+```bash
+python3 -m venv venv
+```
 
 * Activate virtual env
 
-```source venv/bin/activate```
+```bash
+source venv/bin/activate
+```
 
 ### Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 * Run script
 
-```python churn_library.py```
+```bash
+python churn_library.py
+```
 
 
 
