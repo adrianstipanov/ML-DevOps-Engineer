@@ -1,0 +1,4 @@
+root - INFO - SUCCESS: EDA results successfully saved!
+root - INFO - SUCCESS: Categorical columns correctly encoded.
+root - INFO - SUCCESS: Train test split correctly done
+root - INFO - SUCCESS: Models successfully saved!

@@ -1,0 +1,10 @@
+predict_customer_churn/__pycache__
+predict_customer_churn/.pytest_cache
+predict_customer_churn/venv/
+predict_customer_churn/.DS_Store
+
+venv/
+.venv/
+
+.DS_Store
+__pycache__
