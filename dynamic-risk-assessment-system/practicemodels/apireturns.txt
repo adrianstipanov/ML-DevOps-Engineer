@@ -1,0 +1,46 @@
+[0 1 1 1 1]
+0.5714285714285715
+        lastmonth_activity  lastyear_activity  number_of_employees
+mean            165.653846        1502.923077            26.884615
+median           73.000000         955.000000            14.000000
+std             284.033229        2192.644958            31.353886
+execution_time: [1.9632587850000007, 2.531020003] 
+ missing_values: [0.0, 0.0, 0.0, 0.0, 0.0] 
+ outdated_packages: Package                Version   Latest      Type
+---------------------- --------- ----------- -----
+alembic                1.4.1     1.7.7       wheel
+antlr4-python3-runtime 4.8       4.10        sdist
+Babel                  2.9.1     2.10.1      wheel
+click                  8.1.2     8.1.3       wheel
+cookiecutter           1.7.2     1.7.3       wheel
+cryptography           36.0.2    37.0.1      wheel
+databricks-cli         0.12.1    0.16.6      sdist
+Flask                  2.1.1     2.1.2       wheel
+hydra-core             1.0.6     1.1.2       wheel
+ipykernel              5.5.5     6.13.0      wheel
+ipython                7.21.0    8.2.0       wheel
+Jinja2                 3.1.1     3.1.2       wheel
+json5                  0.9.5     0.9.6       wheel
+jupyter-client         7.2.2     7.3.0       wheel
+jupyter-core           4.9.2     4.10.0      wheel
+jupyter-packaging      0.7.12    0.12.0      wheel
+jupyter-server         1.16.0    1.17.0      wheel
+jupyterlab             3.0.10    3.3.4       wheel
+jupyterlab-server      2.10.3    2.13.0      wheel
+matplotlib             3.3.4     3.5.1       wheel
+mistune                0.8.4     2.0.2       wheel
+nbclient               0.5.13    0.6.0       wheel
+nbconvert              6.4.4     6.5.0       wheel
+notebook               6.2.0     6.4.11      wheel
+omegaconf              2.0.6     2.1.2       wheel
+pandas                 1.2.3     1.4.2       wheel
+pip                    20.3.3    22.0.4      wheel
+protobuf               3.20.0rc2 3.20.1      wheel
+Pygments               2.11.2    2.12.0      wheel
+python-slugify         6.1.1     6.1.2       wheel
+setuptools             59.8.0    62.1.0      wheel
+smmap                  3.0.5     5.0.0       wheel
+soupsieve              2.3.1     2.3.2.post1 wheel
+SQLAlchemy             1.4.35    1.4.36      wheel
+wandb                  0.10.31   0.12.15     wheel
+Werkzeug               2.1.1     2.1.2       wheel
