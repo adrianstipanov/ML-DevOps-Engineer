@@ -20,7 +20,6 @@ This includes:
 * incorporating the ML pipeline into a CI/CD framework using GitHub Actions.
 
 [ML Model Scoring and Monitoring](https://github.com/adrianstipanov/ML-DevOps-Engineer/tree/main/dynamic-risk-assessment-system)
-
 This project is about scoring processes to be performed after model deployment, such as model drift, and whether models need to be retrained and re-deployed. It deals with issues regarding data integrity, stability problems, timing problems, and dependency issues.
 
 
